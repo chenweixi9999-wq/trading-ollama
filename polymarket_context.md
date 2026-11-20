@@ -1,325 +1,325 @@
 # Polymarket 宏观事件预期上下文
-> 生成时间：2026-11-19T14:55:21.161570+00:00
+> 生成时间：2026-11-20T14:37:04.788833+00:00
 > **Polymarket 是市场交易预期，不是事实，不构成股价信号。**
 
 共 80 个活跃市场。
 
 1. **Will the U.S. invade Iran before 2027?**
-   - Yes 隐含概率：0.065 | 成交量：80,682,933 | 流动性：255,302
+   - Yes 隐含概率：0.065 | 成交量：80,781,870 | 流动性：274,073
    - 截止：2027-01-01 | 分类：N/A
 
-2. **Will the US confirm that aliens exist before 2027?**
-   - Yes 隐含概率：0.015 | 成交量：46,853,901 | 流动性：2,815,357
+2. **Will Jesus Christ return before 2027?**
+   - Yes 隐含概率：0.007 | 成交量：69,763,350 | 流动性：1,192,225
    - 截止：2027-01-01 | 分类：N/A
 
-3. **Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?**
-   - Yes 隐含概率：0.002 | 成交量：45,975,584 | 流动性：228,758
+3. **Will China invade Taiwan by end of 2026?**
+   - Yes 隐含概率：0.017 | 成交量：46,976,526 | 流动性：232,987
+   - 截止：2027-01-01 | 分类：N/A
+
+4. **Will the US confirm that aliens exist before 2027?**
+   - Yes 隐含概率：0.018 | 成交量：46,949,014 | 流动性：2,759,282
+   - 截止：2027-01-01 | 分类：N/A
+
+5. **Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?**
+   - Yes 隐含概率：0.002 | 成交量：46,089,138 | 流动性：577,605
    - 截止：2027-05-30 | 分类：N/A
 
-4. **Will Tim Walz win the 2028 Democratic presidential nomination?**
-   - Yes 隐含概率：0.001 | 成交量：45,159,570 | 流动性：1,844,279
-   - 截止：2028-11-08 | 分类：N/A
-
-5. **Will George Clooney win the 2028 Democratic presidential nomination?**
-   - Yes 隐含概率：0.001 | 成交量：44,039,474 | 流动性：1,914,904
-   - 截止：2028-11-08 | 分类：N/A
-
 6. **Will Benjamin Netanyahu be the next Prime Minister of Israel?**
-   - Yes 隐含概率：0.242 | 成交量：35,560,440 | 流动性：278,012
+   - Yes 隐含概率：0.202 | 成交量：35,637,168 | 流动性：328,978
    - 截止：2026-10-28 | 分类：N/A
 
-7. **Putin out as President of Russia by December 31, 2026?**
-   - Yes 隐含概率：0.015 | 成交量：28,527,690 | 流动性：382,056
-   - 截止：2027-01-01 | 分类：N/A
-
-8. **Will Erika Kirk win the 2028 Republican presidential nomination?**
-   - Yes 隐含概率：0.002 | 成交量：19,635,480 | 流动性：443,880
+7. **Will Roy Cooper win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.002 | 成交量：32,884,146 | 流动性：1,021,159
    - 截止：2028-11-08 | 分类：N/A
 
-9. **Strait of Hormuz traffic returns to normal by December 31?**
-   - Yes 隐含概率：0.038 | 成交量：18,121,108 | 流动性：347,137
-   - 截止：2027-01-01 | 分类：N/A
-
-10. **Will J.D. Vance win the 2028 Republican presidential nomination?**
-   - Yes 隐含概率：0.342 | 成交量：17,515,771 | 流动性：383,561
+8. **Will Cory Booker win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.009 | 成交量：27,015,194 | 流动性：240,487
    - 截止：2028-11-08 | 分类：N/A
 
-11. **Trump out as President before 2027?**
-   - Yes 隐含概率：0.022 | 成交量：15,062,424 | 流动性：271,243
+9. **Clarity Act (H.R.3633) signed into law in 2026?**
+   - Yes 隐含概率：0.004 | 成交量：25,614,199 | 流动性：343,304
    - 截止：2027-01-01 | 分类：N/A
 
-12. **Will Josh Shapiro win the 2028 Democratic presidential nomination?**
-   - Yes 隐含概率：0.065 | 成交量：10,959,698 | 流动性：313,807
+10. **Will Matt Gaetz win the 2028 Republican presidential nomination?**
+   - Yes 隐含概率：0.001 | 成交量：21,348,513 | 流动性：820,140
    - 截止：2028-11-08 | 分类：N/A
 
-13. **Will there be no change in Fed interest rates after the December 2026 meeting?**
-   - Yes 隐含概率：0.022 | 成交量：10,310,552 | 流动性：673,014
-   - 截止：2026-12-09 | 分类：N/A
+11. **Will JD Vance win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.153 | 成交量：19,495,134 | 流动性：668,201
+   - 截止：2028-11-08 | 分类：N/A
 
-14. **Will Bitcoin dip to $45,000 by December 31, 2026?**
-   - Yes 隐含概率：0.084 | 成交量：10,253,680 | 流动性：206,141
+12. **Will Brian Kemp win the 2028 Republican presidential nomination?**
+   - Yes 隐含概率：0.015 | 成交量：18,740,513 | 流动性：215,881
+   - 截止：2028-11-08 | 分类：N/A
+
+13. **Trump out as President before 2027?**
+   - Yes 隐含概率：0.024 | 成交量：15,238,354 | 流动性：311,272
    - 截止：2027-01-01 | 分类：N/A
 
-15. **Will the Fed increase interest rates by 25 bps after the December 2026 meeting?**
-   - Yes 隐含概率：0.915 | 成交量：10,066,981 | 流动性：711,753
+14. **Will Marco Rubio win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.097 | 成交量：13,830,568 | 流动性：328,297
+   - 截止：2028-11-08 | 分类：N/A
+
+15. **Will Marco Rubio win the 2028 Republican presidential nomination?**
+   - Yes 隐含概率：0.246 | 成交量：11,874,189 | 流动性：256,490
+   - 截止：2028-11-08 | 分类：N/A
+
+16. **Will there be no change in Fed interest rates after the December 2026 meeting?**
+   - Yes 隐含概率：0.043 | 成交量：11,630,847 | 流动性：367,000
    - 截止：2026-12-09 | 分类：N/A
 
-16. **Will David Lisnard win the 2027 French presidential election?**
-   - Yes 隐含概率：0.185 | 成交量：8,323,951 | 流动性：500,421
-   - 截止：2027-04-19 | 分类：N/A
+17. **Will Gadi Eizenkot be the next Prime Minister of Israel?**
+   - Yes 隐含概率：0.660 | 成交量：10,409,202 | 流动性：158,295
+   - 截止：2026-10-28 | 分类：N/A
 
-17. **Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?**
-   - Yes 隐含概率：0.065 | 成交量：7,723,598 | 流动性：434,713
+18. **Will the Fed increase interest rates by 25 bps after the December 2026 meeting?**
+   - Yes 隐含概率：0.925 | 成交量：10,272,609 | 流动性：786,082
    - 截止：2026-12-09 | 分类：N/A
 
-18. **US announces end of Iranian blockade by December 31, 2026?**
-   - Yes 隐含概率：0.167 | 成交量：6,699,539 | 流动性：164,614
+19. **Will Bitcoin dip to $55,000 by December 31, 2026?**
+   - Yes 隐含概率：0.435 | 成交量：8,598,651 | 流动性：127,099
    - 截止：2027-01-01 | 分类：N/A
 
-19. **Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?**
-   - Yes 隐含概率：0.004 | 成交量：6,611,934 | 流动性：921,613
+20. **Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?**
+   - Yes 隐含概率：0.036 | 成交量：8,197,974 | 流动性：464,392
    - 截止：2026-12-09 | 分类：N/A
 
-20. **Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?**
-   - Yes 隐含概率：0.002 | 成交量：6,394,301 | 流动性：473,930
+21. **Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?**
+   - Yes 隐含概率：0.003 | 成交量：7,579,634 | 流动性：230,696
    - 截止：2026-12-09 | 分类：N/A
 
-21. **Will Bitcoin dip to $50,000 by December 31, 2026?**
-   - Yes 隐含概率：0.191 | 成交量：6,377,449 | 流动性：126,718
+22. **Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?**
+   - Yes 隐含概率：0.003 | 成交量：7,433,213 | 流动性：763,801
+   - 截止：2026-12-09 | 分类：N/A
+
+23. **US announces end of Iranian blockade by December 31, 2026?**
+   - Yes 隐含概率：0.132 | 成交量：6,823,675 | 流动性：202,631
    - 截止：2027-01-01 | 分类：N/A
 
-22. **Will Marine Le Pen win the 2027 French presidential election?**
-   - Yes 隐含概率：0.457 | 成交量：5,982,297 | 流动性：631,781
-   - 截止：2027-04-19 | 分类：N/A
-
-23. **Will Bruno Retailleau win the 2027 French presidential election?**
-   - Yes 隐含概率：0.005 | 成交量：4,402,296 | 流动性：340,742
-   - 截止：2027-04-19 | 分类：N/A
-
-24. **Will Gabriel Attal win the 2027 French presidential election?**
-   - Yes 隐含概率：0.004 | 成交量：4,143,216 | 流动性：446,175
-   - 截止：2027-04-19 | 分类：N/A
+24. **Will Bitcoin dip to $50,000 by December 31, 2026?**
+   - Yes 隐含概率：0.276 | 成交量：6,439,175 | 流动性：116,503
+   - 截止：2027-01-01 | 分类：N/A
 
 25. **Will Dominique de Villepin win the 2027 French presidential election?**
-   - Yes 隐含概率：0.013 | 成交量：4,105,361 | 流动性：258,571
+   - Yes 隐含概率：0.035 | 成交量：4,239,465 | 流动性：240,091
    - 截止：2027-04-19 | 分类：N/A
 
-26. **Will Raphaël Glucksmann win the 2027 French presidential election?**
-   - Yes 隐含概率：0.015 | 成交量：4,100,222 | 流动性：430,087
+26. **Will Jean-Luc Mélenchon win the 2027 French presidential election?**
+   - Yes 隐含概率：0.145 | 成交量：4,117,348 | 流动性：678,651
    - 截止：2027-04-19 | 分类：N/A
 
-27. **Will Bitcoin dip to $35,000 by December 31, 2026?**
-   - Yes 隐含概率：0.021 | 成交量：4,001,738 | 流动性：119,946
+27. **NATO x Russia military clash by December 31, 2026?**
+   - Yes 隐含概率：0.115 | 成交量：3,931,707 | 流动性：40,095
    - 截止：2027-01-01 | 分类：N/A
 
-28. **Will Bitcoin reach $1,000,000 by December 31, 2026?**
-   - Yes 隐含概率：0.002 | 成交量：3,922,093 | 流动性：367,400
-   - 截止：2027-01-01 | 分类：N/A
-
-29. **Will there be no new be CEO of NVIDIA by December 31, 2028?**
-   - Yes 隐含概率：0.114 | 成交量：3,764,127 | 流动性：231,096
+28. **Will there be no new be CEO of NVIDIA by December 31, 2028?**
+   - Yes 隐含概率：0.100 | 成交量：3,892,520 | 流动性：246,308
    - 截止：2029-01-01 | 分类：N/A
 
-30. **US announces end of Iranian blockade by November 30, 2026?**
-   - Yes 隐含概率：0.050 | 成交量：3,632,146 | 流动性：119,181
-   - 截止：2026-12-01 | 分类：N/A
-
-31. **Will Anthropic's market cap be less than $1.25T at market close on IPO day?**
-   - Yes 隐含概率：0.252 | 成交量：3,545,385 | 流动性：137,344
-   - 截止：2028-01-01 | 分类：N/A
-
-32. **Will Jensen Huang rejoin NVIDIA by December 31, 2026?**
-   - Yes 隐含概率：0.051 | 成交量：3,270,023 | 流动性：209,927
-   - 截止：2027-01-01 | 分类：N/A
-
-33. **Pete Hegseth out as Secretary of Defense by December 31?**
-   - Yes 隐含概率：0.125 | 成交量：3,161,174 | 流动性：182,653
-   - 截止：2027-01-01 | 分类：N/A
-
-34. **Israel x Iran ceasefire continues through December 31?**
-   - Yes 隐含概率：0.615 | 成交量：3,074,041 | 流动性：80,865
-   - 截止：2026-12-31 | 分类：N/A
-
-35. **Will Chiang Wan-an win the next Taipei Mayor election?**
-   - Yes 隐含概率：0.595 | 成交量：2,963,688 | 流动性：488,233
+29. **Will Puma Shen win the next Taipei Mayor election?**
+   - Yes 隐含概率：0.377 | 成交量：3,734,768 | 流动性：458,372
    - 截止：2026-11-29 | 分类：N/A
 
+30. **US announces end of Iranian blockade by November 30, 2026?**
+   - Yes 隐含概率：0.028 | 成交量：3,731,500 | 流动性：100,784
+   - 截止：2026-12-01 | 分类：N/A
+
+31. **Will Jensen Huang rejoin NVIDIA by December 31, 2026?**
+   - Yes 隐含概率：0.051 | 成交量：3,412,624 | 流动性：203,221
+   - 截止：2027-01-01 | 分类：N/A
+
+32. **Israel x Iran ceasefire continues through December 31?**
+   - Yes 隐含概率：0.630 | 成交量：3,186,600 | 流动性：51,572
+   - 截止：2026-12-31 | 分类：N/A
+
+33. **Will Crude Oil reach a new all-time high by December 31?**
+   - Yes 隐含概率：0.035 | 成交量：3,051,988 | 流动性：207,481
+   - 截止：2027-01-01 | 分类：N/A
+
+34. **Will Chiang Wan-an win the next Taipei Mayor election?**
+   - Yes 隐含概率：0.625 | 成交量：3,035,512 | 流动性：466,727
+   - 截止：2026-11-29 | 分类：N/A
+
+35. **Will Jensen Huang rejoin NVIDIA by November 30, 2026?**
+   - Yes 隐含概率：0.011 | 成交量：2,820,492 | 流动性：244,408
+   - 截止：2026-12-01 | 分类：N/A
+
 36. **Will Bitcoin dip to $60,000 by December 31, 2026?**
-   - Yes 隐含概率：0.675 | 成交量：2,609,676 | 流动性：105,955
+   - Yes 隐含概率：0.805 | 成交量：2,802,625 | 流动性：133,297
    - 截止：2027-01-01 | 分类：N/A
 
-37. **Will Jensen Huang rejoin NVIDIA by November 30, 2026?**
-   - Yes 隐含概率：0.013 | 成交量：2,551,898 | 流动性：250,880
-   - 截止：2026-12-01 | 分类：N/A
-
-38. **Will Anthropic announce bankruptcy by December 31, 2027?**
-   - Yes 隐含概率：0.085 | 成交量：2,344,904 | 流动性：341,882
-   - 截止：2028-01-01 | 分类：N/A
-
-39. **Strait of Hormuz traffic returns to normal by November 30?**
-   - Yes 隐含概率：0.006 | 成交量：2,179,945 | 流动性：315,090
-   - 截止：2026-12-01 | 分类：N/A
-
-40. **Will Anthropic IPO by December 31, 2026?**
-   - Yes 隐含概率：0.999 | 成交量：2,179,363 | 流动性：90,662
+37. **Will Bitcoin reach $110,000 by December 31, 2026?**
+   - Yes 隐含概率：0.017 | 成交量：2,506,194 | 流动性：134,700
    - 截止：2027-01-01 | 分类：N/A
 
-41. **Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?**
-   - Yes 隐含概率：0.026 | 成交量：2,020,163 | 流动性：201,251
-   - 截止：2028-01-01 | 分类：N/A
+38. **Another Fed rate hike in 2026?**
+   - Yes 隐含概率：0.955 | 成交量：2,261,894 | 流动性：89,951
+   - 截止：2026-12-10 | 分类：N/A
 
-42. **Anthropic IPO closing market cap above $1.1T?**
-   - Yes 隐含概率：0.971 | 成交量：1,984,570 | 流动性：151,556
-   - 截止：2028-01-01 | 分类：N/A
-
-43. **Israel x Iran ceasefire continues through November 30?**
-   - Yes 隐含概率：0.815 | 成交量：1,922,133 | 流动性：48,028
-   - 截止：2026-11-30 | 分类：N/A
-
-44. **Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?**
-   - Yes 隐含概率：0.158 | 成交量：1,893,776 | 流动性：128,772
-   - 截止：2028-01-01 | 分类：N/A
-
-45. **Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?**
-   - Yes 隐含概率：0.007 | 成交量：1,877,322 | 流动性：243,111
-   - 截止：2028-01-01 | 分类：N/A
-
-46. **Israel x Iran ceasefire continues through November 22?**
-   - Yes 隐含概率：0.915 | 成交量：1,651,502 | 流动性：54,829
-   - 截止：2026-11-23 | 分类：N/A
-
-47. **Will SpaceX have the highest IPO Market Cap 2026?**
-   - Yes 隐含概率：0.958 | 成交量：1,603,926 | 流动性：65,477
-   - 截止：2027-01-02 | 分类：N/A
-
-48. **Will Anthropic's valuation hit (HIGH) $1.75T by December 31?**
-   - Yes 隐含概率：0.565 | 成交量：1,458,385 | 流动性：66,889
-   - 截止：2027-01-05 | 分类：N/A
-
-49. **ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Rafael Jodar**
-   - Yes 隐含概率：0.885 | 成交量：1,414,395 | 流动性：195,665
-   - 截止：2026-11-24 | 分类：N/A
-
-50. **Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?**
-   - Yes 隐含概率：0.005 | 成交量：1,185,442 | 流动性：122,325
-   - 截止：2028-01-01 | 分类：N/A
-
-51. **Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?**
-   - Yes 隐含概率：0.538 | 成交量：1,168,630 | 流动性：117,414
-   - 截止：2028-01-01 | 分类：N/A
-
-52. **Israel x Iran ceasefire continues through December 15?**
-   - Yes 隐含概率：0.715 | 成交量：1,118,355 | 流动性：60,143
-   - 截止：2026-12-16 | 分类：N/A
-
-53. **Jensen Huang divorce by December 31, 2026?**
-   - Yes 隐含概率：0.085 | 成交量：1,085,863 | 流动性：205,366
-   - 截止：2027-01-01 | 分类：N/A
-
-54. **Will Rob Sand win the 2028 Democratic presidential nomination?**
-   - Yes 隐含概率：0.003 | 成交量：987,417 | 流动性：471,993
+39. **Will Abdul El-Sayed win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.006 | 成交量：2,241,703 | 流动性：401,303
    - 截止：2028-11-07 | 分类：N/A
 
-55. **Will Bitcoin dip to $57,500 in November?**
-   - Yes 隐含概率：0.205 | 成交量：983,774 | 流动性：66,558
-   - 截止：2026-12-01 | 分类：N/A
+40. **Israel x Iran ceasefire continues through November 22?**
+   - Yes 隐含概率：0.885 | 成交量：2,067,503 | 流动性：61,175
+   - 截止：2026-11-23 | 分类：N/A
 
-56. **Will Anthropic's market cap be $3.0T or greater at market close on IPO day?**
-   - Yes 隐含概率：0.002 | 成交量：886,311 | 流动性：185,216
-   - 截止：2028-01-01 | 分类：N/A
+41. **Israel x Iran ceasefire continues through November 30?**
+   - Yes 隐含概率：0.815 | 成交量：2,063,727 | 流动性：52,338
+   - 截止：2026-11-30 | 分类：N/A
 
-57. **Will Bitcoin dip to $60,000 in November?**
-   - Yes 隐含概率：0.405 | 成交量：817,535 | 流动性：89,957
-   - 截止：2026-12-01 | 分类：N/A
+42. **Will Shawn Fain win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.002 | 成交量：1,914,580 | 流动性：399,700
+   - 截止：2028-11-07 | 分类：N/A
 
-58. **Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?**
-   - Yes 隐含概率：0.004 | 成交量：778,382 | 流动性：367,689
-   - 截止：2028-01-01 | 分类：N/A
+43. **ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli**
+   - Yes 隐含概率：1.000 | 成交量：1,842,353 | 流动性：936,680
+   - 截止：2026-11-24 | 分类：N/A
 
-59. **Will Anthropic's valuation hit (HIGH) $1.5T by December 31?**
-   - Yes 隐含概率：0.839 | 成交量：750,129 | 流动性：18,775
+44. **Will SpaceX have the highest IPO Market Cap 2026?**
+   - Yes 隐含概率：0.986 | 成交量：1,769,551 | 流动性：186,951
+   - 截止：2027-01-02 | 分类：N/A
+
+45. **Will Anthropic's valuation hit (HIGH) $1.75T by December 31?**
+   - Yes 隐含概率：0.235 | 成交量：1,611,919 | 流动性：36,454
    - 截止：2027-01-05 | 分类：N/A
 
-60. **Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?**
-   - Yes 隐含概率：0.001 | 成交量：721,066 | 流动性：365,209
-   - 截止：2028-01-01 | 分类：N/A
-
-61. **Iran full airspace closure by November 30, 2026?**
-   - Yes 隐含概率：0.095 | 成交量：642,113 | 流动性：44,677
+46. **Iran leadership change by November 30?**
+   - Yes 隐含概率：0.013 | 成交量：1,418,268 | 流动性：134,805
    - 截止：2026-12-01 | 分类：N/A
 
-62. **Israel x Iran ceasefire continues through November 20?**
-   - Yes 隐含概率：0.980 | 成交量：569,043 | 流动性：60,384
+47. **Will Rahm Emanuel win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.007 | 成交量：1,196,934 | 流动性：697,853
+   - 截止：2028-11-07 | 分类：N/A
+
+48. **Israel x Iran ceasefire continues through December 15?**
+   - Yes 隐含概率：0.705 | 成交量：1,174,043 | 流动性：52,843
+   - 截止：2026-12-16 | 分类：N/A
+
+49. **Will Scott Colom win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.002 | 成交量：1,162,617 | 流动性：1,241,910
+   - 截止：2028-11-07 | 分类：N/A
+
+50. **Will Rob Sand win the 2028 Democratic presidential nomination?**
+   - Yes 隐含概率：0.002 | 成交量：1,071,285 | 流动性：631,336
+   - 截止：2028-11-07 | 分类：N/A
+
+51. **Will Bitcoin dip to $60,000 in November?**
+   - Yes 隐含概率：0.675 | 成交量：873,490 | 流动性：64,856
+   - 截止：2026-12-01 | 分类：N/A
+
+52. **US-Iran Final Nuclear Deal by November 30, 2026?**
+   - Yes 隐含概率：0.006 | 成交量：803,732 | 流动性：97,699
+   - 截止：2026-12-01 | 分类：N/A
+
+53. **Israel x Iran ceasefire continues through November 20?**
+   - Yes 隐含概率：0.982 | 成交量：766,092 | 流动性：46,057
    - 截止：2026-11-21 | 分类：N/A
 
-63. **Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?**
-   - Yes 隐含概率：0.048 | 成交量：553,175 | 流动性：29,126
-   - 截止：2028-01-01 | 分类：N/A
+54. **Will Marjorie Taylor Greene win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.002 | 成交量：739,798 | 流动性：290,827
+   - 截止：2028-11-07 | 分类：N/A
 
-64. **Will Anthropic IPO by November 19, 2026?**
-   - Yes 隐含概率：1.000 | 成交量：378,977 | 流动性：54,526
+55. **Iran full airspace closure by November 30, 2026?**
+   - Yes 隐含概率：0.085 | 成交量：698,041 | 流动性：40,171
+   - 截止：2026-12-01 | 分类：N/A
+
+56. **Dota 2: Natus Vincere vs OG - Game 1 Winner**
+   - Yes 隐含概率：1.000 | 成交量：648,583 | 流动性：798,108
    - 截止：2026-11-20 | 分类：N/A
 
-65. **Will Rene Haas be the next CEO of NVIDIA?**
-   - Yes 隐含概率：0.259 | 成交量：373,398 | 流动性：148,116
-   - 截止：2029-01-01 | 分类：N/A
+57. **Metz: Soon-Woo Kwon vs Dino Prizmic**
+   - Yes 隐含概率：0.555 | 成交量：538,962 | 流动性：206,513
+   - 截止：2026-11-27 | 分类：N/A
 
-66. **Will Anthropic IPO by November 20, 2026?**
-   - Yes 隐含概率：1.000 | 成交量：353,295 | 流动性：48,642
+58. **Will Cory Booker win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.003 | 成交量：472,595 | 流动性：465,931
+   - 截止：2028-11-07 | 分类：N/A
+
+59. **Wizards vs. Bulls**
+   - Yes 隐含概率：0.425 | 成交量：390,178 | 流动性：196,791
    - 截止：2026-11-21 | 分类：N/A
 
-67. **Counter-Strike: WBT vs MOUZ NXT (BO3) - European Pro League Playoffs**
-   - Yes 隐含概率：1.000 | 成交量：331,273 | 流动性：201,761
-   - 截止：2026-11-19 | 分类：N/A
-
-68. **Anthropic IPO: Closing Price above IPO Price on First Day?**
-   - Yes 隐含概率：0.971 | 成交量：299,900 | 流动性：23,550
-   - 截止：2028-01-01 | 分类：N/A
-
-69. **Will Anthropic’s market cap be between 0.9T and 1.2T at market close on IPO day by December 31 2027?**
-   - Yes 隐含概率：0.132 | 成交量：271,521 | 流动性：30,502
-   - 截止：2028-01-01 | 分类：N/A
-
-70. **ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils**
-   - Yes 隐含概率：0.705 | 成交量：265,449 | 流动性：149,970
-   - 截止：2026-11-24 | 分类：N/A
-
-71. **Will Anthropic's IPO valuation be between $1.25T and $1.50T?**
-   - Yes 隐含概率：0.150 | 成交量：242,322 | 流动性：7,329
-   - 截止：2028-01-01 | 分类：N/A
-
-72. **Colts vs. Texans**
-   - Yes 隐含概率：0.155 | 成交量：238,199 | 流动性：533,147
+60. **Dota 2: GamerLegion vs Xtreme Gaming - Game 1 Winner**
+   - Yes 隐含概率：1.000 | 成交量：362,253 | 流动性：394,271
    - 截止：2026-11-20 | 分类：N/A
 
-73. **Will Anthropic's IPO valuation be between $1.50T and $1.75T?**
-   - Yes 隐含概率：0.836 | 成交量：231,868 | 流动性：3,128
-   - 截止：2028-01-01 | 分类：N/A
+61. **Will Abdul El-Sayed win the 2028 US Presidential Election?**
+   - Yes 隐含概率：0.003 | 成交量：341,621 | 流动性：486,372
+   - 截止：2028-11-07 | 分类：N/A
 
-74. **Anthropic IPO closing market cap above $1.5T?**
-   - Yes 隐含概率：0.211 | 成交量：231,073 | 流动性：31,719
-   - 截止：2028-01-01 | 分类：N/A
+62. **Will Bitcoin reach $70,000 in November?**
+   - Yes 隐含概率：0.125 | 成交量：317,509 | 流动性：49,777
+   - 截止：2026-12-01 | 分类：N/A
 
-75. **Anthropic IPO closing market cap above $1.75T?**
-   - Yes 隐含概率：0.038 | 成交量：174,072 | 流动性：28,268
-   - 截止：2028-01-01 | 分类：N/A
+63. **Helsinki: Edas Butvilas vs Nishesh Basavareddy**
+   - Yes 隐含概率：0.003 | 成交量：283,592 | 流动性：121,141
+   - 截止：2026-11-27 | 分类：N/A
 
-76. **ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Flavio Cobolli**
-   - Yes 隐含概率：0.815 | 成交量：173,440 | 流动性：70,092
-   - 截止：2026-11-24 | 分类：N/A
-
-77. **Counter-Strike: BIG vs NIP (BO3) - Stake Ranked Episode 6 Playoffs**
-   - Yes 隐含概率：0.435 | 成交量：168,124 | 流动性：29,524
-   - 截止：2026-11-19 | 分类：N/A
-
-78. **Dota 2: Froglings vs HULIGANI - Game 1 Winner**
-   - Yes 隐含概率：1.000 | 成交量：137,116 | 流动性：91,201
-   - 截止：2026-11-19 | 分类：N/A
-
-79. **Will Elon Musk post 320-339 tweets from November 13 to November 20, 2026?**
-   - Yes 隐含概率：0.022 | 成交量：135,209 | 流动性：21,690
+64. **Will 1. FC Köln win on 2026-11-20?**
+   - Yes 隐含概率：0.032 | 成交量：210,019 | 流动性：299,723
    - 截止：2026-11-20 | 分类：N/A
 
-80. **Will the price of Bitcoin be above $62,000 on November 19?**
-   - Yes 隐含概率：0.977 | 成交量：134,569 | 流动性：59,598
-   - 截止：2026-11-19 | 分类：N/A
+65. **Will Elon Musk post 400-419 tweets from November 13 to November 20, 2026?**
+   - Yes 隐含概率：0.001 | 成交量：195,783 | 流动性：31,209
+   - 截止：2026-11-20 | 分类：N/A
+
+66. **Will Bitcoin dip to $50,000 in November?**
+   - Yes 隐含概率：0.081 | 成交量：180,305 | 流动性：71,165
+   - 截止：2026-12-01 | 分类：N/A
+
+67. **Will Elon Musk post 380-399 tweets from November 13 to November 20, 2026?**
+   - Yes 隐含概率：0.004 | 成交量：178,395 | 流动性：10,913
+   - 截止：2026-11-20 | 分类：N/A
+
+68. **Will the price of Bitcoin be above $58,000 on November 20?**
+   - Yes 隐含概率：0.996 | 成交量：163,212 | 流动性：73,531
+   - 截止：2026-11-20 | 分类：N/A
+
+69. **Will Elon Musk post 340-359 tweets from November 13 to November 20, 2026?**
+   - Yes 隐含概率：0.877 | 成交量：161,116 | 流动性：2,765
+   - 截止：2026-11-20 | 分类：N/A
+
+70. **Will Bitcoin dip to $56,000 November 16-22?**
+   - Yes 隐含概率：0.061 | 成交量：150,709 | 流动性：56,073
+   - 截止：2026-11-23 | 分类：N/A
+
+71. **Will the price of Bitcoin be above $64,000 on November 20?**
+   - Yes 隐含概率：0.048 | 成交量：144,051 | 流动性：47,276
+   - 截止：2026-11-20 | 分类：N/A
+
+72. **Will FC Bayern München win on 2026-11-20?**
+   - Yes 隐含概率：0.905 | 成交量：143,688 | 流动性：334,647
+   - 截止：2026-11-20 | 分类：N/A
+
+73. **Will the price of Bitcoin be above $60,000 on November 20?**
+   - Yes 隐含概率：0.948 | 成交量：136,453 | 流动性：41,774
+   - 截止：2026-11-20 | 分类：N/A
+
+74. **Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 6 Playoffs**
+   - Yes 隐含概率：0.445 | 成交量：136,369 | 流动性：32,037
+   - 截止：2026-11-20 | 分类：N/A
+
+75. **Hornets vs. Hawks: O/U 218.5**
+   - Yes 隐含概率：0.525 | 成交量：133,865 | 流动性：49,125
+   - 截止：2026-11-21 | 分类：N/A
+
+76. **Will Elon Musk post 360-379 tweets from November 13 to November 20, 2026?**
+   - Yes 隐含概率：0.110 | 成交量：129,888 | 流动性：4,641
+   - 截止：2026-11-20 | 分类：N/A
+
+77. **Will the price of Bitcoin be above $70,000 on November 20?**
+   - Yes 隐含概率：0.001 | 成交量：127,389 | 流动性：119,981
+   - 截止：2026-11-20 | 分类：N/A
+
+78. **Will the price of Bitcoin be above $68,000 on November 20?**
+   - Yes 隐含概率：0.003 | 成交量：127,343 | 流动性：60,349
+   - 截止：2026-11-20 | 分类：N/A
+
+79. **Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs**
+   - Yes 隐含概率：0.665 | 成交量：126,245 | 流动性：116,160
+   - 截止：2026-11-21 | 分类：N/A
+
+80. **Exact Score: Any Other Score?**
+   - Yes 隐含概率：0.240 | 成交量：118,770 | 流动性：134
+   - 截止：2026-11-26 | 分类：N/A
